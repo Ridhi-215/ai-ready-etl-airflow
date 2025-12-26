@@ -1,0 +1,15 @@
+# Airflow
+logs/
+__pycache__/
+
+# Environment & secrets
+.env
+gcp/
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
