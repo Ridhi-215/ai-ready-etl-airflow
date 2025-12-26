@@ -274,19 +274,22 @@ LIMIT 10;
 
 ## Key Takeaways
 
-End-to-end ETL orchestration using Apache Airflow
+- End-to-end ETL orchestration using Apache Airflow
 
-AI-focused feature engineering within the pipeline
+- AI-focused feature engineering within the pipeline
 
-Production-grade BigQuery partitioning & clustering
+- Production-grade BigQuery partitioning & clustering
 
-Robust handling of real-world data issues
+- Robust handling of real-world data issues
 
-Monitoring, retries, and alerting included
+- Monitoring, retries, and alerting included
 
 ## Author
 
-Ridhi
+Guntur Ridhi
 
-AI Engineer Candidate
+📧 gunturridhi@gmail.com
+
+🔗 https://github.com/Ridhi-215
+
 
